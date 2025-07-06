@@ -116,7 +116,7 @@ jupyter notebook "FineGrained_Apparel_Similarity.ipynb"
 
 ## 🙏 Acknowledgments
 
-Special thanks to mentors who helped me guide thorugh the project.
+Special thanks to mentors who helped me guide through the project.
 
 ---
 
