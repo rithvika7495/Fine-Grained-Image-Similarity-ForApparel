@@ -124,5 +124,3 @@ Special thanks to mentors who helped me guide thorugh the project.
 
 This project is intended for academic, portfolio, and research use only. For commercial use, please contact the author(s).
 
-```
-
