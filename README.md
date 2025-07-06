@@ -13,8 +13,7 @@ This project introduces a deep learning pipeline that integrates a **ResNet50-ba
 ---
 
 ## 🧠 Model Architecture
-
-![Model Architecture](./Model%20Architecture.png)
+![Model Architecture](https://github.com/user-attachments/assets/2c3ced9a-8b90-42ee-9c97-316428bc60cf)
 
 The architecture includes:
 
